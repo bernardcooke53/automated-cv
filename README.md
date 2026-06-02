@@ -65,6 +65,5 @@ The list of some third party components used in this project, with due credits t
 
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)
 - [xu-cheng/latex-action](https://github.com/xu-cheng/latex-action)
-- [ezpzbz/automated-cv](https://github.com/ezpzbz/automated-cv)
 
-Forked from `https://github.com/kirintwn/resume`.
+Forked from [ezpzbz/automated-cv](https://github.com/ezpzbz/automated-cv).
