@@ -1,4 +1,4 @@
-# Pezh Zarabadi's resume
+# Bernard Cooke's resume
 
 [![Release](https://img.shields.io/github/release/bernardcooke53/automated-cv.svg?style=flat)](https://github.com/bernardcooke53/automated-cv/releases/latest)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](./LICENSE)
